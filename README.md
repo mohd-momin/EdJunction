@@ -1,6 +1,6 @@
 # Edjunction Online Education Platform (MERN App) [Website Link](https://edjunction-frontend.vercel.app/)
 
-![Main Page]([https://github.com/mohd-momin/EdJunction/blob/main/src/assets/Images/edjunction-homepage.png])
+![Main Page](https://github.com/mohd-momin/EdJunction/blob/main/src/assets/Images/edjunction-homepage.png)
 
 ## Project Description
 
